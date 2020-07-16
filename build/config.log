@@ -1,0 +1,62 @@
+# project  configured on Wed Jul 15 19:55:33 2020 by
+# waf 1.7.11 (abi 98, python 20712c1 on linux2)
+# using /home/sivenpanda/.pebble-sdk/SDKs/current/sdk-core/pebble/waf configure
+#
+----------------------------------------
+Setting top to
+/home/sivenpanda/pebble-dev/helloworld
+----------------------------------------
+Setting out to
+/home/sivenpanda/pebble-dev/helloworld/build
+----------------------------------------
+Checking for program webpack
+/home/sivenpanda/.pebble-sdk/SDKs/current/node_modules/.bin/webpack
+find program=['webpack'] paths=['/home/sivenpanda/.pebble-sdk/SDKs/current/node_modules/.bin'] var='WEBPACK' -> '/home/sivenpanda/.pebble-sdk/SDKs/current/node_modules/.bin/webpack'
+----------------------------------------
+Checking for program node,nodejs
+/usr/bin/node
+find program=['node', 'nodejs'] paths=['/home/sivenpanda/pebble-dev/pebble-sdk-4.5-linux64/arm-cs-tools/bin', '/home/sivenpanda/pebble-dev/pebble-sdk-4.5-linux64/bin', '/home/sivenpanda/.local/bin', '/home/sivenpanda/pebble-dev/pebble-sdk-4.5-linux64/bin', '/home/sivenpanda/pebble-dev/pebble-sdk-4.5-linux64/bin', '/home/sivenpanda/pebble-dev/pebble-sdk-4.5-mac/bin', '/home/sivenpanda/pebble-dev/pebble-sdk-4.5-linux64/bin', '/usr/local/sbin', '/usr/local/bin', '/usr/sbin', '/usr/bin', '/sbin', '/bin', '/usr/games', '/usr/local/games', '/mnt/c/Program Files/WindowsApps/CanonicalGroupLimited.UbuntuonWindows_2004.2020.424.0_x64__79rhkp1fndgsc', '/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath', '/mnt/c/Program Files (x86)/CA/SharedComponents/PEC/bin', '/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common', '/mnt/c/WINDOWS/system32', '/mnt/c/WINDOWS', '/mnt/c/WINDOWS/System32/Wbem', '/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/', '/mnt/c/WINDOWS/System32/OpenSSH/', '/mnt/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR', '/mnt/c/Program Files/dotnet/', '/mnt/c/Users/Siven Panda/AppData/Local/Microsoft/WindowsApps', '/mnt/c/Users/Siven Panda/AppData/Local/Programs/Microsoft VS Code/bin', '/mnt/c/Program Files/Java/jdk-12.0.2/bin', '/snap/bin'] var='NODE' -> '/usr/bin/node'
+----------------------------------------
+Found Pebble SDK for emery in:
+/home/sivenpanda/.pebble-sdk/SDKs/current/sdk-core/pebble/emery
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'
+----------------------------------------
+Found Pebble SDK for diorite in:
+/home/sivenpanda/.pebble-sdk/SDKs/current/sdk-core/pebble/diorite
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'
+----------------------------------------
+Found Pebble SDK for chalk in:
+/home/sivenpanda/.pebble-sdk/SDKs/current/sdk-core/pebble/chalk
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'
+----------------------------------------
+Found Pebble SDK for basalt in:
+/home/sivenpanda/.pebble-sdk/SDKs/current/sdk-core/pebble/basalt
+----------------------------------------
+Checking for program gcc,cc
+arm-none-eabi-gcc
+find program=['gcc', 'cc'] paths='' var='CC' -> 'arm-none-eabi-gcc'
+----------------------------------------
+Checking for program ar
+arm-none-eabi-ar
+find program=['ar'] paths='' var='AR' -> 'arm-none-eabi-ar'

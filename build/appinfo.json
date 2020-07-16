@@ -1,0 +1,37 @@
+{
+    "projectType": "rocky", 
+    "messageKeys": {
+        "ControlKeyResetRequest": 1, 
+        "ControlKeyUnsupportedError": 4, 
+        "ControlKeyChunk": 3, 
+        "ControlKeyResetComplete": 2
+    }, 
+    "companyName": "pandapbl", 
+    "enableMultiJS": true, 
+    "watchapp": {
+        "watchface": true
+    }, 
+    "versionLabel": "1.0", 
+    "longName": "Simply Time", 
+    "shortName": "Simply Time", 
+    "name": "Simply Time", 
+    "sdkVersion": "3", 
+    "displayName": "Simply Time", 
+    "uuid": "19dca7b1-3957-4e42-aaf0-6f6b71ba242e", 
+    "appKeys": {
+        "ControlKeyResetRequest": 1, 
+        "ControlKeyUnsupportedError": 4, 
+        "ControlKeyChunk": 3, 
+        "ControlKeyResetComplete": 2
+    }, 
+    "capabilities": [
+        "location"
+    ], 
+    "main": {
+        "rockyjs": "src/rocky/index.js", 
+        "pkjs": "src/pkjs/index.js"
+    }, 
+    "resources": {
+        "media": []
+    }
+}

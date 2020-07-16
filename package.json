@@ -1,0 +1,26 @@
+{
+  "name": "Simply Time",
+  "author": "pandapbl",
+  "version": "1.0.0",
+  "keywords": ["pebble-app"],
+  "private": true,
+  "dependencies": {},
+  "pebble": {
+    "main": {
+      "rockyjs": "src/rocky/index.js",
+      "pkjs": "src/pkjs/index.js"
+    },
+    "displayName": "Simply Time",
+    "uuid": "19dca7b1-3957-4e42-aaf0-6f6b71ba242e",
+    "projectType": "rocky",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "capabilities": ["location"],
+    "watchapp": {
+      "watchface": true
+    },
+    "resources": {
+      "media": []
+    }
+  }
+}
